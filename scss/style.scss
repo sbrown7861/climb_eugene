@@ -47,9 +47,9 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 ==================================================================*/
 
 #twitter-feed {
-	background-image: url("../images/parallax/twitter.jpg");
-	padding-bottom: 100px;
-	padding-top: 80px;
+    background-image: url("../images/parallax/twitter.jpg");
+    padding-bottom: 100px;
+    padding-top: 80px;
 }
 
 .twitter-bird span {
@@ -86,7 +86,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 
 
 #blog-banner {
-	padding-bottom: 100px;
+    padding-bottom: 100px;
     padding-top: 150px;
 }
 
@@ -103,16 +103,16 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 }
 
 #blog-page {
-	margin: 0 0 40px;
+    margin: 0 0 40px;
 }
 
 .post-item .entry {
-	border: 1px solid #4e595f;
-	margin-bottom: 30px;
+    border: 1px solid #4e595f;
+    margin-bottom: 30px;
 }
 
 .entry .post-excerpt {
-	padding: 0 20px;
+    padding: 0 20px;
 }
 
 #gallery-post .owl-prev,
@@ -123,10 +123,10 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
     position: absolute;
     top: 45%;
 
-	-webkit-transition: all .5s ease-in 0s;
-	   -moz-transition: all .5s ease-in 0s;
-		 -o-transition: all .5s ease-in 0s;
-			transition: all .5s ease-in 0s;
+    -webkit-transition: all .5s ease-in 0s;
+    -moz-transition: all .5s ease-in 0s;
+    -o-transition: all .5s ease-in 0s;
+    transition: all .5s ease-in 0s;
 }
 
 #gallery-post .owl-prev,
@@ -159,31 +159,31 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 }
 
 .post-meta {
-	background-color: #3d444a;
-	border-top: 1px solid #4e595f;
-	font-size: 13px;
-	margin: 20px 0 0;
-	padding: 0 20px 10px;
+    background-color: #3d444a;
+    border-top: 1px solid #4e595f;
+    font-size: 13px;
+    margin: 20px 0 0;
+    padding: 0 20px 10px;
 }
 
-.post-meta > span {
-	border-right: 1px solid #4e595f;
-	display: inline-block;
-	font-size: 12px;
-	margin: 10px 10px 0 0;
-	padding-right: 10px;
+.post-meta>span {
+    border-right: 1px solid #4e595f;
+    display: inline-block;
+    font-size: 12px;
+    margin: 10px 10px 0 0;
+    padding-right: 10px;
 }
 
-.post-meta > span:last-child {
+.post-meta>span:last-child {
     border-right: 0;
 }
 
-.post-meta > span > i {
+.post-meta>span>i {
     margin-right: 5px;
 }
 
 .post-meta a:hover {
-	color: #6CB670;
+    color: #6CB670;
 }
 
 .post-excerpt .more {
@@ -205,92 +205,92 @@ aside.widget {
     margin-bottom: 25px;
 }
 
-.widget-title > h3 {
-	color: #fff;
+.widget-title>h3 {
+    color: #fff;
     margin-bottom: 15px;
     margin-top: 0;
     position: relative;
 }
 
 #search-form {
-	position: relative;
+    position: relative;
 }
 
 #search-submit {
-	background: none;
-	border: 0;
-	color: #C8C8CA;
-	display: block;
-	font-size: 16px;
-	height: 32px;
-	outline: 0;
-	position: absolute;
-	right: 0;
-	text-align: center;
-	top: 0;
-	width: 32px;
+    background: none;
+    border: 0;
+    color: #C8C8CA;
+    display: block;
+    font-size: 16px;
+    height: 32px;
+    outline: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 32px;
 }
 
 .widget-content .tab-content {
-	background-color: #2f383d;
-	padding: 20px;
+    background-color: #2f383d;
+    padding: 20px;
 }
 
 .tab-post-nav {
-	background-color: #4A535A;
+    background-color: #4A535A;
 }
 
 .tab-post-nav li {
-	float: left;
+    float: left;
 }
 
-.tab-post-nav li.active a {  
-	border-top: 3px solid #6cb670;
-	background-color: #2F383D;
-	color: #6CB670;
+.tab-post-nav li.active a {
+    border-top: 3px solid #6cb670;
+    background-color: #2F383D;
+    color: #6CB670;
 }
 
 .tab-pane.active .clearfix:first-child {
-	margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
-.tab-excerpt > span {
-	display: block;
-	font-size: 12px;
-	margin-bottom: 10px;
+.tab-excerpt>span {
+    display: block;
+    font-size: 12px;
+    margin-bottom: 10px;
 }
 
 .tab-excerpt h4 a {
-	color: #fff;
+    color: #fff;
 }
 
 .tab-excerpt h4 a:hover {
-	color: #6cb670;
+    color: #6cb670;
 }
 
 .tab-post-nav li a {
-	border-top: 3px solid transparent;
-	color: #fff;
-	display: block;
-	padding: 13px 18px;
-	text-align: center;
+    border-top: 3px solid transparent;
+    color: #fff;
+    display: block;
+    padding: 13px 18px;
+    text-align: center;
 }
 
 .categories li {
     margin-bottom: 10px;
 
-	-webkit-transition: all .5s ease-in 0s;
-	   -moz-transition: all .5s ease-in 0s;
-		 -o-transition: all .5s ease-in 0s;
-			transition: all .5s ease-in 0s;
+    -webkit-transition: all .5s ease-in 0s;
+    -moz-transition: all .5s ease-in 0s;
+    -o-transition: all .5s ease-in 0s;
+    transition: all .5s ease-in 0s;
 }
 
-.categories > li:hover a {
+.categories>li:hover a {
     padding-left: 10px;
     color: #6CB670;
 }
 
-.categories > li:last-child {
+.categories>li:last-child {
     border-bottom: 0;
 }
 
@@ -299,12 +299,12 @@ aside.widget {
 }
 
 .widget-content .tag {
-	background-color: #2F383D;
-	color: #fff;
-	display: inline-block;
-	margin-bottom: 10px;
-	margin-right: 5px;
-	padding: 5px 13px;
+    background-color: #2F383D;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    padding: 5px 13px;
 }
 
 .widget-content .tag:hover {
@@ -336,13 +336,13 @@ aside.widget {
 }
 
 .post-pagination ul li a {
-	background-color: #30393e;
-	color: #9aa8b3;
-	display: block;
-	padding: 8px 18px;
+    background-color: #30393e;
+    color: #9aa8b3;
+    display: block;
+    padding: 8px 18px;
 }
 
-.post-pagination ul li a:hover, 
+.post-pagination ul li a:hover,
 .post-pagination ul li.active a {
     background-color: #6CB670;
     color: #fff;
@@ -392,16 +392,16 @@ blockquote {
     margin-right: 20px;
 }
 
-.post-author > img {
-	border: 1px solid #4e595f;
-	max-width: 120px;
-	padding: 5px;
-	width: 100%;
+.post-author>img {
+    border: 1px solid #4e595f;
+    max-width: 120px;
+    padding: 5px;
+    width: 100%;
 }
 
-.comment-reply-form > h3,
-.author-about > h4,
-.comments > h4 {
+.comment-reply-form>h3,
+.author-about>h4,
+.comments>h4 {
     border-bottom: 1px solid #4e595f;
     margin-bottom: 15px;
     margin-top: 0;
@@ -426,16 +426,16 @@ blockquote {
 }
 
 .comment-wrap {
-	border: 1px solid #4e595f;
-	border-radius: 1px;
-	margin-left: 20px;
-	padding: 10px;
-	position: relative;
+    border: 1px solid #4e595f;
+    border-radius: 1px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
 }
 
 .comment-wrap .author-avatar {
-	margin-left: -25px;
-	margin-right: 20px;
+    margin-left: -25px;
+    margin-right: 20px;
 }
 
 .author-comment {
@@ -443,7 +443,8 @@ blockquote {
     overflow: hidden;
 }
 
-.author-comment cite a:hover, .replay:hover {
+.author-comment cite a:hover,
+.replay:hover {
     color: #6CB670;
     text-decoration: underline;
 }
@@ -475,10 +476,5 @@ blockquote {
 
 .form-group:last-child,
 .form-group:last-child input {
-  margin: 0;
+    margin: 0;
 }
-                            
-
-
-
-
