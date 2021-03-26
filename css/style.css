@@ -787,11 +787,11 @@ a:hover {
 }
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #D8000C;
 }
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #fff;
 }
 .call-to-action .btn-main {
   margin-top: 20px;

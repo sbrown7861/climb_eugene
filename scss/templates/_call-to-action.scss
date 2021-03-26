@@ -4,14 +4,17 @@
 
 .call-to-action {
   background-attachment: fixed;
+
   h2 {
     font-weight: 700;
-    color:#444;
+    color: #D8000C;
   }
+
   p {
-    font-size:16px;
-    color:#666;
+    font-size: 16px;
+    color: #fff;
   }
+
   .btn-main {
     margin-top: 20px;
   }
@@ -26,18 +29,21 @@
 ==================================================================*/
 
 .call-to-action-2 {
-  padding:100px 0;
+  padding: 100px 0;
   background-image: url('../images/call-to-action/call-to-action-bg.jpg');
   background-size: cover;
   color: $light;
+
   h2 {
     line-height: 1.5;
   }
+
   p {
     color: $light;
   }
+
   .btn-main {
     margin-top: 20px;
   }
-  
+
 }
