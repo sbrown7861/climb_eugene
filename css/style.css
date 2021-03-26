@@ -611,13 +611,13 @@ a:hover {
 .bg-1 {
   background-image: url("../images/backgrounds/bg-1.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .bg-2 {
   background-image: url("../images/backgrounds/bg-2.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
 }
 
