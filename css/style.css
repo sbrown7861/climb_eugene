@@ -611,14 +611,27 @@ a:hover {
 .bg-1 {
   background-image: url("../images/backgrounds/bg-1.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  background-attachment: fixed;
+}
+@media (max-width: 768px) {
+  .bg-1 {
+    background-size: contain;
+    background-position: center;
+  }
 }
 
 .bg-2 {
   background-image: url("../images/backgrounds/bg-2.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
+}
+@media (max-width: 768px) {
+  .bg-2 {
+    background-size: contain;
+    background-position: center;
+  }
 }
 
 .hero-area {
